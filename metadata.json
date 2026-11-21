@@ -1,0 +1,6 @@
+{
+  "name": "NexChat",
+  "description": "Secure WhatsApp-inspired messaging application featuring voice calling, group chats, end-to-end encryption, and an integrated AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
